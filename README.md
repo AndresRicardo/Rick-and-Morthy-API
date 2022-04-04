@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github repository](https://github.com/AndresRicardo/Rick-and-Morthy-API.git)
--   Live Site URL: [Github page](https://andresricardo.github.io/time-tracking-dashboard-main/)
+-   Live Site URL: [Github page](https://andresricardo.github.io/Rick-and-Morthy-API/)
 
 ### Built with
 
