@@ -39,7 +39,11 @@ body #container #loading {
 }
 
 body #container .card {
+  max-width: 300px;
   padding: 5px;
+  -ms-flex-item-align: center;
+      align-self: center;
+  justify-self: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -66,6 +70,8 @@ body #container .card .cardImage img {
 }
 
 body #container .card .cardBody {
+  width: 100%;
+  margin-top: 20px;
   text-align: center;
   color: #444;
 }

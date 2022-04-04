@@ -25,8 +25,10 @@ body {
         }
 
         .card {
-            // max-width: 300px;
+            max-width: 300px;
             padding: 5px;
+            align-self: center;
+            justify-self: center;
             display: flex;
             flex-direction: column;
             justify-content: start;
@@ -42,6 +44,8 @@ body {
                 }
             }
             .cardBody {
+                width: 100%;
+                margin-top: 20px;
                 text-align: center;
                 color: #444;
             }

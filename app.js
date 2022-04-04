@@ -39,7 +39,7 @@ const pintarData = (data) => {
     data.results.forEach((item) => {
         const clone = templateCard.cloneNode(true);
 
-        clone.querySelector(".cardImage img").src = item.image;
+        clone.querySelector(".cardImage img").setAttribute("src", item.image);
         clone.querySelector("h4").textContent = item.name;
         clone.querySelector("p").textContent = item.species;
 
