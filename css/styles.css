@@ -35,6 +35,11 @@ body #container {
 }
 
 body #container #loading {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -ms-grid-column-align: center;
+      justify-self: center;
   color: white;
 }
 
@@ -63,6 +68,8 @@ body #container .card {
 
 body #container .card .cardImage {
   width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 body #container .card .cardImage img {
