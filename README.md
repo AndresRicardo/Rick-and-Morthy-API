@@ -34,7 +34,8 @@ Users should be able to:
 -   Destop version screenshot
     ![Destop version screenshot](./screenshots/desktop-screenshot.png)
 
-![Tablet version screenshot](./screenshots/tablet-screenshot.png)
+-   Tablet version screenshot
+    ![Tablet version screenshot](./screenshots/tablet-screenshot.png)
 
 ### Links
 
